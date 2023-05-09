@@ -1,4 +1,4 @@
-# Landing
+# Lander
 
 A text-mining based tool to help student with finding the most compatible job post based on their past experiences and interesrs as well as optimizing their resume by a keyword suggesting system.
 
